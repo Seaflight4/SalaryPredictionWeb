@@ -1,8 +1,6 @@
-streamlit
-pandas
-numpy
-matplotlib
-scikit-learn
-requests
-zipfile
-pickle
+streamlit=1.46.0=py39haa95532_0
+numpy=2.0.1=py39h055cbcc_1
+pandas=2.2.3=py39h5da7b33_0
+matplotlib=3.9.2=py39haa95532_1
+requests=2.32.4=py39haa95532_0
+pickleshare=0.7.5=pyhd3eb1b0_1003
